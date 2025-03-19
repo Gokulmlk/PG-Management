@@ -1,11 +1,11 @@
-# PG-management-System
+# PG-Management
 
 This is a PG listing website in different cities that supports both HTML and PHP rendering options.
 
 Clone the Repository
 
 git clone 
-cd [your-repository](https://github.com/Gokulmlk/PG-management-System.git)
+cd [your-repository](https://github.com/Gokulmlk/PG-Management.git)
 
 Setting Up XAMPP
 
@@ -47,10 +47,10 @@ How to Select the Rendering Type?
 
 To use HTML Rendering, open the index.html file in your browser:
 
-http://localhost/[your-repository](https://github.com/Gokulmlk/PG-management-System.git)/index.html
+http://localhost/[your-repository](https://github.com/Gokulmlk/PG-Management.git)/index.html
 
 To use PHP Rendering, open the index.php file in your browser:
 
-http://localhost/[your-repository](https://github.com/Gokulmlk/PG-management-System.git)/index.php
+http://localhost/[your-repository](https://github.com/Gokulmlk/PG-Management.git)/index.php
 
 Make sure Apache and MySQL are running before accessing the PHP version.
